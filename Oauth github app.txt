@@ -1,0 +1,3 @@
+OAuth
+client id: d68c3217140911d933bb
+client secret:  9d1234864ecc5736f904704c61b8d1175132aee1
